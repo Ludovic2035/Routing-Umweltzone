@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/routing_umweltzone" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
